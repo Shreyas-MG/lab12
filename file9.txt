@@ -1,1 +1,6 @@
 Second commit
+<<<<<<< HEAD
+=======
+REVERTING
+hey you
+>>>>>>> 3b45a8a6682b2fd578ac2387964e996de6072e82
